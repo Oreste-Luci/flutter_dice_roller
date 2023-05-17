@@ -1,0 +1,4 @@
+#Wed May 17 19:26:53 CEST 2023
+base.0=/Users/oreste/Projects/mykidztube/flutter_learning/flutter_dice_roller/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
